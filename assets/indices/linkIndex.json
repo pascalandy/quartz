@@ -1,0 +1,207 @@
+{
+  "index": {
+    "links": {
+      "/All-posts-..-SSG": [
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/cats",
+          "text": "cats"
+        },
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/jekyll",
+          "text": "jekyll"
+        },
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/How-to-link-an-image",
+          "text": "How to link an image?"
+        },
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/How-to-setting-up-your-own-digital-garden-with-Jekyll-by-Maxime-Vaillancourt",
+          "text": "How to setting up your own digital garden with Jekyll by Maxime Vaillancourt"
+        },
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/Obsidian-Publish-Alternative-How-does-it-compare-YouTube",
+          "text": "Obsidian Publish Alternative How does it compare - YouTube"
+        },
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/Latest-update",
+          "text": "Latest update"
+        }
+      ],
+      "/How-to-link-an-image": [
+        {
+          "source": "/How-to-link-an-image",
+          "target": "/cats",
+          "text": "cats"
+        }
+      ],
+      "/Pour-et-contre-..-SSG-project": [
+        {
+          "source": "/Pour-et-contre-..-SSG-project",
+          "target": "/netlify",
+          "text": "netlify"
+        }
+      ],
+      "/digital-gardeners-concept-..-README.md-MaggieAppletondigital": [
+        {
+          "source": "/digital-gardeners-concept-..-README.md-MaggieAppletondigital",
+          "target": "/jekyll",
+          "text": "jekyll"
+        }
+      ],
+      "/jekyll": [
+        {
+          "source": "/jekyll",
+          "target": "/maximevaillancourt-Jekyll-template",
+          "text": "maximevaillancourt Jekyll template 🌱"
+        },
+        {
+          "source": "/jekyll",
+          "target": "/_index",
+          "text": "_index"
+        }
+      ]
+    },
+    "backlinks": {
+      "/_index": [
+        {
+          "source": "/jekyll",
+          "target": "/_index",
+          "text": "_index"
+        }
+      ],
+      "/app//obsidian.md/_cards/_public_ssg_pascalandy/How-to-link-an-image": [
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/How-to-link-an-image",
+          "text": "How to link an image?"
+        }
+      ],
+      "/app//obsidian.md/_cards/_public_ssg_pascalandy/How-to-setting-up-your-own-digital-garden-with-Jekyll-by-Maxime-Vaillancourt": [
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/How-to-setting-up-your-own-digital-garden-with-Jekyll-by-Maxime-Vaillancourt",
+          "text": "How to setting up your own digital garden with Jekyll by Maxime Vaillancourt"
+        }
+      ],
+      "/app//obsidian.md/_cards/_public_ssg_pascalandy/Latest-update": [
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/Latest-update",
+          "text": "Latest update"
+        }
+      ],
+      "/app//obsidian.md/_cards/_public_ssg_pascalandy/Obsidian-Publish-Alternative-How-does-it-compare-YouTube": [
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/Obsidian-Publish-Alternative-How-does-it-compare-YouTube",
+          "text": "Obsidian Publish Alternative How does it compare - YouTube"
+        }
+      ],
+      "/app//obsidian.md/_cards/_public_ssg_pascalandy/cats": [
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/cats",
+          "text": "cats"
+        }
+      ],
+      "/app//obsidian.md/_cards/_public_ssg_pascalandy/jekyll": [
+        {
+          "source": "/All-posts-..-SSG",
+          "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/jekyll",
+          "text": "jekyll"
+        }
+      ],
+      "/cats": [
+        {
+          "source": "/How-to-link-an-image",
+          "target": "/cats",
+          "text": "cats"
+        }
+      ],
+      "/jekyll": [
+        {
+          "source": "/digital-gardeners-concept-..-README.md-MaggieAppletondigital",
+          "target": "/jekyll",
+          "text": "jekyll"
+        }
+      ],
+      "/maximevaillancourt-Jekyll-template": [
+        {
+          "source": "/jekyll",
+          "target": "/maximevaillancourt-Jekyll-template",
+          "text": "maximevaillancourt Jekyll template 🌱"
+        }
+      ],
+      "/netlify": [
+        {
+          "source": "/Pour-et-contre-..-SSG-project",
+          "target": "/netlify",
+          "text": "netlify"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/All-posts-..-SSG",
+      "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/cats",
+      "text": "cats"
+    },
+    {
+      "source": "/All-posts-..-SSG",
+      "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/jekyll",
+      "text": "jekyll"
+    },
+    {
+      "source": "/All-posts-..-SSG",
+      "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/How-to-link-an-image",
+      "text": "How to link an image?"
+    },
+    {
+      "source": "/All-posts-..-SSG",
+      "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/How-to-setting-up-your-own-digital-garden-with-Jekyll-by-Maxime-Vaillancourt",
+      "text": "How to setting up your own digital garden with Jekyll by Maxime Vaillancourt"
+    },
+    {
+      "source": "/All-posts-..-SSG",
+      "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/Obsidian-Publish-Alternative-How-does-it-compare-YouTube",
+      "text": "Obsidian Publish Alternative How does it compare - YouTube"
+    },
+    {
+      "source": "/All-posts-..-SSG",
+      "target": "/app//obsidian.md/_cards/_public_ssg_pascalandy/Latest-update",
+      "text": "Latest update"
+    },
+    {
+      "source": "/How-to-link-an-image",
+      "target": "/cats",
+      "text": "cats"
+    },
+    {
+      "source": "/Pour-et-contre-..-SSG-project",
+      "target": "/netlify",
+      "text": "netlify"
+    },
+    {
+      "source": "/digital-gardeners-concept-..-README.md-MaggieAppletondigital",
+      "target": "/jekyll",
+      "text": "jekyll"
+    },
+    {
+      "source": "/jekyll",
+      "target": "/maximevaillancourt-Jekyll-template",
+      "text": "maximevaillancourt Jekyll template 🌱"
+    },
+    {
+      "source": "/jekyll",
+      "target": "/_index",
+      "text": "_index"
+    }
+  ]
+}
